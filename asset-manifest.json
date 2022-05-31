@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.102671fd.chunk.css",
+    "main.css": "/Portfolio/static/css/main.0019846f.chunk.css",
     "main.js": "/Portfolio/static/js/main.2bbd3edc.chunk.js",
     "main.js.map": "/Portfolio/static/js/main.2bbd3edc.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.a34e1ccd.js",
@@ -10,7 +10,7 @@
     "static/js/3.ef6383c7.chunk.js": "/Portfolio/static/js/3.ef6383c7.chunk.js",
     "static/js/3.ef6383c7.chunk.js.map": "/Portfolio/static/js/3.ef6383c7.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "static/css/main.102671fd.chunk.css.map": "/Portfolio/static/css/main.102671fd.chunk.css.map",
+    "static/css/main.0019846f.chunk.css.map": "/Portfolio/static/css/main.0019846f.chunk.css.map",
     "static/js/2.478e799a.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.478e799a.chunk.js.LICENSE.txt",
     "static/media/header.css": "/Portfolio/static/media/1619053022_27-phonoteka_org-p-zadnii-fon-dlya-fotoshopa-goroda-28.32d7ed7d.jpg",
     "static/media/facebook.0bd5e676.png": "/Portfolio/static/media/facebook.0bd5e676.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.a34e1ccd.js",
     "static/js/2.478e799a.chunk.js",
-    "static/css/main.102671fd.chunk.css",
+    "static/css/main.0019846f.chunk.css",
     "static/js/main.2bbd3edc.chunk.js"
   ]
 }
